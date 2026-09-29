@@ -5,4 +5,3 @@ b = int(input("Enter second number: "))
 
 print("addition", a+b)
 print("subract", a-b)
-
